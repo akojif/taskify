@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "taskify": "taskify",
+    "default": "taskify"
+  }
+}
